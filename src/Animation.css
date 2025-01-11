@@ -1,0 +1,17 @@
+@keyframes bounce {
+    0%, 100% {
+      transform: translateY(0);
+    }
+    50% {
+      transform: translateY(-10px);
+    }
+  }
+  
+  .score-change {
+    animation: bounce 0.5s ease-in-out;
+  }
+  
+  .rank-change {
+    animation: bounce 1s ease-in-out;
+  }
+  
