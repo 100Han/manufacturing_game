@@ -19,5 +19,6 @@ Teams can compete on efficiency, quality, and production counts through interact
    npm install chart.js react-chartjs-2 react-router-dom
    
    npm install web-vitals
-   
+
+   #start the development server
    npm start
