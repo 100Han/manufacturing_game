@@ -12,10 +12,12 @@ Teams can compete on efficiency, quality, and production counts through interact
 6. **Achievements**: Awards badges for hitting efficiency and quality targets.
 
 ## 🛠️ Installation
-1. Clone this repository:
 
    git clone https://github.com/your-repo/manufacturing-game.git
    npx create-react-app my-new-game  --template cra
+   
    npm install chart.js react-chartjs-2 react-router-dom
+   
    npm install web-vitals
+   
    npm start
